@@ -1,0 +1,10 @@
+--> Project Template creation 
+--> Setting up requiremetns
+--> Writing logging, utils and exception modules
+--> project workflows 
+--> Modular coding implementation 
+--> training pipeline 
+--> DVC [ pipeline tracking ] 
+--> app creation
+--> Docker 
+--> ci/cd implementation on AWS
