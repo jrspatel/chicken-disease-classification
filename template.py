@@ -20,7 +20,8 @@ file_list = [
     'params/params.yaml',
     'setup.py',
     'dvc.yaml',
-    'research/trails.ipynb'
+    'research/trails.ipynb',
+    'templates/index.html'
 ]
 
 print(1)

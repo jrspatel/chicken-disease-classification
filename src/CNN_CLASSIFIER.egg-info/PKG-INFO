@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: CNN-CLASSIFIER
+Version: 0.0.0
+Summary: python package wiht cnn app
+Home-page: https://github.com/jrspatel/chicken-disease-classification
+Author: jrspatel
+Author-email: jrspatel12@gmail.com
+Project-URL: bug_tracker, https://github.com/jrspatel/chicken-disease-classification/issues
